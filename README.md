@@ -5,7 +5,7 @@
 - 🌱 Estudando (HTML,CSS,JavaScript,TypeScript,Git,Java e Python) 
 - 📚 “O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento." -- Stephen Hawking
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italodipereira)](https://github.com/anuraghazra/github-readme-stats)
+STATS FORA DO AR!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
