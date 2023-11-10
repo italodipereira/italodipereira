@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Italo Pereira 👾
   <img align="center" height="350" width="900" 
     src=https://github.com/italodipereira/italodipereira/blob/c285766ca96e7d0cfe40804ddb790b7e2b639ef8/pixel-night.gif>
-- 💬 Olá, Meu nome é Italo Pereira, tenho 26 anos, sou estudante de programação,completamente apaixonado por Programação,Tecnologia,Games e Hacking e no meu tempo livre estudo para piloto de avião
+- 💬 Olá, Meu nome é Italo Pereira, tenho 26 anos, sou estudante de análise e desenvolvimento de sistemas,completamente apaixonado por Programação,Tecnologia,Games e Hacking.
 - 🌱 Estudando (HTML,CSS,JavaScript,TypeScript,Git,Java e Python) 
 - 📚 “O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento." -- Stephen Hawking
 
